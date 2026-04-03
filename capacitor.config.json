@@ -1,0 +1,1 @@
+{\n  "appId": "com.example.app",\n  "appName": "MyApp",\n  "webDir": "www",\n  "bundledWebRuntime": false,\n  "plugins": {\n    "CapacitorStorage": {\n      "preferencesPrefix": "app_"\n    }\n  },\n  "server": {\n    "url": "http://localhost:8100",\n    "cleartext": true\n  }\n}
